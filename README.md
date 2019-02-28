@@ -4,9 +4,9 @@ A set of shell scripts to setup an environment on Ubuntu 18.04 (Compatible with 
 
 ## Usages
 
-sudo apt-get git
-sudo git clone https://github.com/thunpisit/ubuntu
-sudo ./ubuntu_setup.sh
+- sudo apt-get git
+- sudo git clone https://github.com/thunpisit/ubuntu
+- sudo ./ubuntu_setup.sh
 
 ## ubuntu_setup.sh
 
