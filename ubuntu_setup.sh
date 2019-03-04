@@ -27,7 +27,7 @@ echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/
 sudo apt-get update
 sudo apt-get install -y mongodb-org
 sudo service mongod start
-sudo systemctl enable mongodb
+#sudo systemctl enable mongodb
 
 # Install Let's Encrypt
 sudo apt-get update
