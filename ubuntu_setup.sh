@@ -15,6 +15,10 @@ sudo ufw allow 22
 sudo ufw allow 27017
 sudo ufw enable -y
 
+# Install Python3 and Pip3
+sudo apt-get install -y python3-pip
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+
 # Install Nodejs & Npm
 sudo apt update
 sudo apt install nodejs -y
