@@ -17,7 +17,7 @@ sudo ufw enable -y
 
 # Install Python3 and Pip3
 sudo apt-get install -y python3-pip
-sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev -y
 
 # Install Nodejs & Npm
 sudo apt update
